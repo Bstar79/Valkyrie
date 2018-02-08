@@ -1,2 +1,0 @@
-# Valkyrie
-Valkyrie
